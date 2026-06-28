@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+
+.vercel
+.env
+.env.local
+.env.*
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+coverage/
+*.log

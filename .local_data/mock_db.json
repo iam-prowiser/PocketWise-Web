@@ -1,0 +1,15 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "TXN702188",
+      "user_id": "U001",
+      "amount": 42.5,
+      "type": "Expense",
+      "category": "TestAPI",
+      "date": "2026-06-26",
+      "description": "API test"
+    }
+  ],
+  "budgets": [],
+  "users": []
+}
